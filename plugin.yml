@@ -1,0 +1,10 @@
+main: net.atog.kap.plugin.main.KhalyAuth
+name: KhalyAuth
+version: 1.0A
+description: Plugin de auth privado.
+
+commands:
+  login:
+    description: Login
+  register:
+    description: Register
